@@ -1,0 +1,10 @@
+PicoCatcher Onlineupdates
+
+Diesen gesamten Ordner unverändert auf deinen HTTPS-Webspace hochladen,
+sodass die Dateien unter https://lechels.github.io/pikocatcher-updates/pico/ erreichbar sind.
+
+Adresse für die Kunden (Updates → Updatequelle einrichten):
+  https://lechels.github.io/pikocatcher-updates/pico/catalog.json
+
+Der Katalog ist bis 2026-12-08T21:02:19Z gültig. Danach (spätestens monatlich) neu erstellen und hochladen.
+Er enthält keine Geräte- oder Kundendaten.
